@@ -1445,7 +1445,7 @@ img {
 	margin-top: 0.24rem;
 	display: -webkit-box;
 	width: 100%;
-	-webkit-line-clamp: 6;
+	-webkit-line-clamp: 7;
 	-webkit-box-orient: vertical;
 	transition: all 2s;
 	margin-left: -300px;
